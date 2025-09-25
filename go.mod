@@ -1,4 +1,4 @@
-module HHELand
+module github.com/Voker57/HHELand
 
 go 1.24
 
